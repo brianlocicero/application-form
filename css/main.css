@@ -1,0 +1,22 @@
+.nameView, .addressView {
+	margin:0 auto;
+}
+
+.container {
+	background:#eee;
+	padding:0 35px 35px 35px;
+}
+/*
+.col-xs-0 {
+	display: none;
+}
+*/
+
+#addressTemplate, #thankYouTemplate {
+	display: none;
+}
+
+h3 {
+	text-align: center;
+}
+

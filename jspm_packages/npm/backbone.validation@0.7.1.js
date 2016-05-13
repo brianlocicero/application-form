@@ -1,0 +1,1 @@
+module.exports = require("npm:backbone.validation@0.7.1/dist/backbone-validation-amd.js");
